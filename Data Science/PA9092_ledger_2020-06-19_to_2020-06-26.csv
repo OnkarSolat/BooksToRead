@@ -1,0 +1,9 @@
+posting_date,cost_center,remarks,voucher_type,debit,credit,net_balance
+,,Opening Balance,,,,2158.9831
+2020-06-19,NSE-EQ - Z,Net settlement  for  NSE-Equity with settlement number: 2020116,Book Voucher,0.0,931.9331,3090.9162
+2020-06-22,NSE-EQ - Z,Net settlement  for  NSE-Equity with settlement number: 2020117,Book Voucher,36.4427,0.0,3054.4735
+2020-06-23,NSE-EQ - Z,DP Charges for Sale of IDEA on 19/06/2020,Journal Entry,15.93,0.0,3038.5435
+2020-06-23,NSE-EQ - Z,Net settlement  for  NSE-Equity with settlement number: 2020118,Book Voucher,5.2786,0.0,3033.2649
+2020-06-24,NSE-EQ - Z,Net settlement  for  NSE-Equity with settlement number: 2020119,Book Voucher,37.1812,0.0,2996.0837
+2020-06-25,NSE-EQ - Z,Net settlement  for  NSE-Equity with settlement number: 2020120,Book Voucher,115.1863,0.0,2880.8974
+,,Closing Balance,,,,2880.8931
